@@ -229,10 +229,3 @@ export default function AdminPage() {
     </div>
   );
 }
-```
-
-Сохрани **Ctrl+S** → потом в терминале:
-```
-git add .
-git commit -m "admin panel"
-git push
